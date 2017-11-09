@@ -1,0 +1,23 @@
+----------------------------------------
+Iteration number: 1
+[3;J[H[2J#### Load generation started at: Wed Jul 19 16:47:36 UTC 2017
+# Check log sizes before load
+-rw-r--r-- 1 root root 4119M Jul 19 16:47 /var/log/ccm/kamailio.log
+-rw-r--r-- 1 root root 4119M Jul 19 16:47 /var/log/ccm/libccm.log
+# Load log files
+# Check log sizes after load
+-rw-r--r-- 1 root root 4234M Jul 19 16:47 /var/log/ccm/kamailio.log
+-rw-r--r-- 1 root root 4234M Jul 19 16:47 /var/log/ccm/libccm.log
+#### Load generation ended at: Wed Jul 19 16:47:36 UTC 2017
+----------------------------------------
+----------------------------------------
+Iteration number: 2
+[3;J[H[2J#### Load generation started at: Wed Jul 19 16:48:07 UTC 2017
+# Check log sizes before load
+-rw-r--r-- 1 root root 4234M Jul 19 16:48 /var/log/ccm/kamailio.log
+-rw-r--r-- 1 root root 4234M Jul 19 16:48 /var/log/ccm/libccm.log
+# Load log files
+# Check log sizes after load
+-rw-r--r-- 1 root root 4348M Jul 19 16:48 /var/log/ccm/kamailio.log
+-rw-r--r-- 1 root root 4348M Jul 19 16:48 /var/log/ccm/libccm.log
+#### Load generation ended at: Wed Jul 19 16:48:07 UTC 2017
